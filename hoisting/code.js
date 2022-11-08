@@ -1,4 +1,4 @@
-
+// we can call function before its declaration because of hoisting
 sayHello();
 
 
